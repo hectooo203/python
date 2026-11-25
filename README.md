@@ -1,2 +1,2 @@
 # Python
-Programas de practica cuando comenzaba a programar
+Programas y proyectos de Python enfocados a la Programación de servicios y procesos
