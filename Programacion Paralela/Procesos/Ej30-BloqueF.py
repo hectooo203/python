@@ -1,0 +1,1 @@
+# Un programa en un conjunto de procesos estos se diferencian en que un proceso puede funcionar sin un programa pero un programa sino tiene procesos su ejecucion falla
